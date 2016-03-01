@@ -1,0 +1,79 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/yuanyuan\/xioxi\/DEMOS\/canvas_\%D1\%A7\%D0\%B4\%D2\%BB\%B8\%F6\%D7\%D6\/css\/handwriting\.scss}line{font-family:\000033}}
+#canvas {
+  display: block;
+  margin: 0 auto;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/yuanyuan\/xioxi\/DEMOS\/canvas_\%D1\%A7\%D0\%B4\%D2\%BB\%B8\%F6\%D7\%D6\/css\/handwriting\.scss}line{font-family:\000037}}
+#controller {
+  width: 800px;
+  margin: 0 auto;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/yuanyuan\/xioxi\/DEMOS\/canvas_\%D1\%A7\%D0\%B4\%D2\%BB\%B8\%F6\%D7\%D6\/css\/handwriting\.scss}line{font-family:\0000310}}
+#controller .color_btn {
+  float: left;
+  margin: 10px 10px 0 0;
+  border: 5px solid #fff;
+  width: 40px;
+  height: 40px;
+  border-radius: 5px 5px;
+  cursor: pointer;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/yuanyuan\/xioxi\/DEMOS\/canvas_\%D1\%A7\%D0\%B4\%D2\%BB\%B8\%F6\%D7\%D6\/css\/handwriting\.scss}line{font-family:\0000318}}
+#controller .color_btn:hover {
+  border: 5px solid violet;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/yuanyuan\/xioxi\/DEMOS\/canvas_\%D1\%A7\%D0\%B4\%D2\%BB\%B8\%F6\%D7\%D6\/css\/handwriting\.scss}line{font-family:\0000322}}
+#controller .color_btn_selected {
+  border: 5px solid blueviolet;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/yuanyuan\/xioxi\/DEMOS\/canvas_\%D1\%A7\%D0\%B4\%D2\%BB\%B8\%F6\%D7\%D6\/css\/handwriting\.scss}line{font-family:\0000325}}
+#controller .clearfix {
+  clear: both;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/yuanyuan\/xioxi\/DEMOS\/canvas_\%D1\%A7\%D0\%B4\%D2\%BB\%B8\%F6\%D7\%D6\/css\/handwriting\.scss}line{font-family:\0000328}}
+#controller #black_btn {
+  background-color: black;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/yuanyuan\/xioxi\/DEMOS\/canvas_\%D1\%A7\%D0\%B4\%D2\%BB\%B8\%F6\%D7\%D6\/css\/handwriting\.scss}line{font-family:\0000331}}
+#controller #blue_btn {
+  background-color: blue;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/yuanyuan\/xioxi\/DEMOS\/canvas_\%D1\%A7\%D0\%B4\%D2\%BB\%B8\%F6\%D7\%D6\/css\/handwriting\.scss}line{font-family:\0000334}}
+#controller #green_btn {
+  background-color: green;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/yuanyuan\/xioxi\/DEMOS\/canvas_\%D1\%A7\%D0\%B4\%D2\%BB\%B8\%F6\%D7\%D6\/css\/handwriting\.scss}line{font-family:\0000337}}
+#controller #red_btn {
+  background-color: red;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/yuanyuan\/xioxi\/DEMOS\/canvas_\%D1\%A7\%D0\%B4\%D2\%BB\%B8\%F6\%D7\%D6\/css\/handwriting\.scss}line{font-family:\0000340}}
+#controller #orange_btn {
+  background-color: orange;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/yuanyuan\/xioxi\/DEMOS\/canvas_\%D1\%A7\%D0\%B4\%D2\%BB\%B8\%F6\%D7\%D6\/css\/handwriting\.scss}line{font-family:\0000343}}
+#controller #yellow_btn {
+  background-color: yellow;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/yuanyuan\/xioxi\/DEMOS\/canvas_\%D1\%A7\%D0\%B4\%D2\%BB\%B8\%F6\%D7\%D6\/css\/handwriting\.scss}line{font-family:\0000346}}
+#controller .op_btn {
+  float: right;
+  margin: 10px 0 0 10px;
+  border: 2px solid #aaa;
+  width: 80px;
+  height: 40px;
+  line-height: 40px;
+  font-size: 20px;
+  text-align: center;
+  border-radius: 5px 5px;
+  cursor: pointer;
+  background-color: #fff;
+  font-weight: bold;
+  font-family: Microsoft Yahei, Arial;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/yuanyuan\/xioxi\/DEMOS\/canvas_\%D1\%A7\%D0\%B4\%D2\%BB\%B8\%F6\%D7\%D6\/css\/handwriting\.scss}line{font-family:\0000360}}
+#controller .op_btn:hover {
+  background-color: #def;
+}
+
+/*# sourceMappingURL=handwriting.css.map */
